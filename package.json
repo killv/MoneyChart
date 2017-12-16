@@ -1,0 +1,22 @@
+{
+  "name": "moneychart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBartov/MoneyChart.git"
+  },
+  "author": "killv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexBartov/MoneyChart/issues"
+  },
+  "homepage": "https://github.com/AlexBartov/MoneyChart#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
